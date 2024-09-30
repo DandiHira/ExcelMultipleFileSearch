@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMultipleFileSearch", "ExcelMultipleFileSearch\ExcelMultipleFileSearch.csproj", "{F91A36A9-DC6D-4952-B6A6-0EE45DCE7916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91A36A9-DC6D-4952-B6A6-0EE45DCE7916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91A36A9-DC6D-4952-B6A6-0EE45DCE7916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91A36A9-DC6D-4952-B6A6-0EE45DCE7916}.Debug|x64.ActiveCfg = Debug|x64
+		{F91A36A9-DC6D-4952-B6A6-0EE45DCE7916}.Debug|x64.Build.0 = Debug|x64
+		{F91A36A9-DC6D-4952-B6A6-0EE45DCE7916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91A36A9-DC6D-4952-B6A6-0EE45DCE7916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91A36A9-DC6D-4952-B6A6-0EE45DCE7916}.Release|x64.ActiveCfg = Release|x64
+		{F91A36A9-DC6D-4952-B6A6-0EE45DCE7916}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83E70606-FB46-4F3C-8121-161DCBA94F17}
+	EndGlobalSection
+EndGlobal
